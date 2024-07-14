@@ -22,7 +22,6 @@ CreativAI: Textos creativos a partir de palabras claves. Esta aplicación utiliz
 - Flutter
 - Python
 - Firebase Cloud Functions
-- OpenAI API
 
 ## Resolución
 
@@ -30,3 +29,4 @@ CreativAI: Textos creativos a partir de palabras claves. Esta aplicación utiliz
 `14/07/2024` - Creación de repositorio<br>
 `14/07/2024` - Se realiza el diseño base visual teniendo en cuenta los requerimientos establecidos. Se utiliza *Figma* como herramienta para bosquejar las pantallas principales de la aplicación<br>
 `14/07/2024` - Creación de proyecto utilizando comando de línea Flutter create creativai. Creación de estructura base del proyecto.<br>
+`14/07/2024` - Configuración de firebase, functions y emulators. Creación de una función python que genera una historia a partir de una palabra clave. Se crea un documento en Firestore para guardar la historia.<br>

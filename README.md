@@ -24,7 +24,18 @@ CreativAI: Textos creativos a partir de palabras claves. Esta aplicación utiliz
 - Firebase Cloud Functions
 - Firebase Cloud Firestore
 
+## Prueba local
+Para realizar una prueba local de la aplicación Flutter, dirigirse a la carpeta creativai y ejecutar
+`flutter run`
+
+Para realizar una prueba local de las Cloud Functions, dirigirse a la carpeta cloud_functions, instalar Local Emulators de Firebase y ejecutar
+`firebase emulators:start`
+
 ## Resolución
+A continuación se presenta la resolución final de la aplicación. Se muestran la pantalla principal de la aplicación y el funcionamiento base de la misma.
+<p float="left">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExc2dkcHdhaHh3enYzOXY3OWNwNzMzZDJ4cG5qNWhpZXNvZ3EyamVtOCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qOkgLNCh7bKSAxZTq0/giphy.gif" width="200px">
+</p>
 
 ## Roadmap
 `14/07/2024` - Creación de repositorio<br>
